@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 6b1680ac5aa68d85692b28c197bfe3e6dd744694 site <site@local> 1794860478 +0000	commit (initial): Initial site
+6b1680ac5aa68d85692b28c197bfe3e6dd744694 e2bc1ca0f07502d8cfde51586d346dbcb32cbaf5 Claude <noreply@anthropic.com> 1794860485 +0000	commit: Fix base path
+e2bc1ca0f07502d8cfde51586d346dbcb32cbaf5 545b85604580642425d2a775960b50974d738692 Claude <noreply@anthropic.com> 1794904203 +0000	commit: Add guest episodes page with covers
+545b85604580642425d2a775960b50974d738692 a2838f5f77c10ef88a9430333984071ef91b9317 Claude <noreply@anthropic.com> 1794904602 +0000	commit: Link episode 28 from logo page
+a2838f5f77c10ef88a9430333984071ef91b9317 4bfe627a663abc5431873a0e64fa298fbe170b4a Claude <noreply@anthropic.com> 1794904695 +0000	commit: Logo page: note on intentional imprecision
